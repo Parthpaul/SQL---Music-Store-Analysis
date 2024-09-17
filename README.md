@@ -1,6 +1,6 @@
 
 # 🎶 SQL Music Store Analysis Project
-[Analysis preview](https://codebasics.io/portfolio/PRAHALAD-KUMAR)
+[Analysis preview](https://www.linkedin.com/feed/update/urn:li:activity:7241689769510887425/)
 
 This project is a comprehensive analysis of a music store's data using SQL. We'll delve into sales trends, customer preferences, and inventory efficiency to uncover actionable insights.
 
